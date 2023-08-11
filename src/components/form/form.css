@@ -1,0 +1,32 @@
+h1{
+    margin-bottom: 10%;
+    text-align: center;
+}
+
+form{
+
+}
+
+.cont-newTask{
+    display: flex;
+    align-items: center;
+}
+.cont-newTask input{
+    padding: 11px;
+    width: 300px;
+    outline: none;
+    border: none;
+    border-radius: 10px 0px 0px 10px;
+}
+.cont-newTask button{
+    padding: 10px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.cont-newTask button:hover{
+    background-color: blueviolet;
+}
+
